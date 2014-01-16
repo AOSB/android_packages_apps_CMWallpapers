@@ -16,10 +16,22 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-
+	<item>aosb_bg_01</item>
+	<item>aosb_bg_02</item>
+	<item>aosb_bg_03</item>
+	<item>aosb_bg_04</item>
+	<item>aosb_bg_05</item>
+	<item>aosb_bg_06</item>
+	<item>aosb_bg_07</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-
+	<item>AOSB in Black</item>
+	<item>AOSB Space</item>
+	<item>AOSB Tornado</item>
+	<item>AOSB in Gray</item>
+	<item>I LOVE AOSB</item>
+	<item>AOSB Kitkat</item>
+	<item>AOSB in RED</item>
     </string-array>
 </resources>
